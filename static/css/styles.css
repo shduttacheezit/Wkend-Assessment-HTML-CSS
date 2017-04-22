@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+}
+.yellowbox { 
+    background-color: yellow;
+    margin-right: 10px;
+    margin-left: 10px;
+
+}
+
+#instruction {
+    border: solid #224466 5px;
+    text-align: center;
+    font-size: 24px;
+}
+
+#lname {
+    font-weight: bold; 
+}
